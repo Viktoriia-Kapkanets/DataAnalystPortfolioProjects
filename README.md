@@ -42,7 +42,11 @@ Built end-to-end in Microsoft Excel:
 
 ## Screenshots
 
-> _To be added: screenshot of the Dashboard sheet showing the pie chart, bar charts, and slicers in action._
+![Dashboard overview](dashboard.png)
+
+*Interactive Excel dashboard with pie chart (mental disorders distribution), 
+two bar charts segmenting by gender and academic year, and slicers for 
+filtering by gender, year of study, and CGPA.*
 
 ## Notes
 
